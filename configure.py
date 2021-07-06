@@ -1,6 +1,6 @@
 import torch
 
-model_ID = 2 # 0 HCP, 1 TgNN, 2 ANN
+model_ID = 0 # 0 HCP, 1 TgNN, 2 ANN
 
 if model_ID == 0: # HCP
     use_HCP = True
@@ -14,7 +14,7 @@ if model_ID == 2: # ANN
     
 num_epoch_hyper=2000
 
-Nf_hyper=1000 #2000
+Nf_hyper=1000 # collocation number
 N_boun_hyper = 10000
 N_no_flow = N_boun_hyper
 N_h = 10 # the number of observations at each step
