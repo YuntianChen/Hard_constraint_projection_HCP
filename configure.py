@@ -31,7 +31,7 @@ L_t=10     #时间总长
 use_noise = False
 noise = 0.6
 
-use_outlier = True
+use_outlier = False
 outlier_per = 0.1
 
 #设备设置
