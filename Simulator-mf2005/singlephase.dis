@@ -1,0 +1,9 @@
+# DISCRETIZATION FILE 
+# NLAY NROW NCOL NPER TIMEUNITS LENUNITS 
+1 51 51 1  4  2 
+0  
+constant 20
+constant 20
+constant 1 
+constant 0   
+10 50 1.0 Tr 
