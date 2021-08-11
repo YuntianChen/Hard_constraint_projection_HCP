@@ -1,0 +1,6 @@
+0 -1.0e+030 0 1.0 1 0
+0
+constant 1.0
+constant 0.0001
+EXTERNAL  23  1 (51f16.7) -1   transmissivity
+

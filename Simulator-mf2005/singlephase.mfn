@@ -1,0 +1,19 @@
+# NAME file
+#
+# Output Files
+LIST               101  singlephase.out
+DATA                11  final_head.dat
+#
+# Global Input Files
+DIS                102  singlephase.dis
+#
+# Flow Process Input Files
+BAS6               103  singlephase.ba6
+BCF6               104  singlephase.bc6
+OC                 105  singlephase.oc
+SIP                107  singlephase.sip
+#
+# external files
+DATA                21  boundary.dat
+DATA                22  initial_head.dat
+DATA                23  transmissivity.dat
