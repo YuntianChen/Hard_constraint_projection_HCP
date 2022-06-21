@@ -17,4 +17,4 @@ Researchers can modify the experiment setting through the configure.py file. Thi
 If you have any questions, please feel free to contact me.
 E-mail: cyt_cn@126.com
 
-
+Citation: Chen, Y., Huang, D., Zhang, D., Zeng, J., Wang, N., Zhang, H., & Yan, J. (2021). Theory-guided hard constraint projection (HCP): A knowledge-based data-driven scientific machine learning method. Journal of Computational Physics, 445, 110624.
